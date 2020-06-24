@@ -1,0 +1,40 @@
+@font-face {
+  font-family: titleFont;
+  src: url("./assets/VarelaRound-Regular.ttf") format("truetype");
+}
+
+body,
+html {
+  height: 100%;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.fullBackground {
+  height: -webkit-fill-available;
+  object-fit: fill;
+  width: 100%;
+}
+.front-title-container{
+  position: fixed;
+  top:10%;
+  width: 100%;
+  text-align: center;
+}
+.languagesDiv {
+  position: fixed;
+  display: flex;
+  grid-row-gap: 8px;
+  z-index: 99;
+  bottom: 25px;
+  left: 40px;
+}
+.addMargin {
+  margin-right: 15px;
+}
+.homeBtn {
+  position: fixed;
+  bottom: 15px;
+  right: 200px;
+  z-index: 10;
+}
