@@ -11,7 +11,7 @@ import russianText from '../textHandler/RussianText';
 import LangContext from "../LangContext";
 import "../App.css";
 
-function KapostinPage({ onClickFunc, homeBtnLogic }) {
+function KapostinPage({ homeBtnLogic }) {
 
     const { lang } = useContext(LangContext);
 
@@ -26,30 +26,48 @@ function KapostinPage({ onClickFunc, homeBtnLogic }) {
     useEffect(
         () => {
             timer(homeBtnLogic);
-
-            return () => { // Return callback to run on unmount.
-
+            return () => {
                 removeTimer();
             };
 
         }, [homeBtnLogic]);
 
-    function titleToUse() {
+    function whichFileToUse() {
         if (lang === "hebrew") {
-            return hebrewText.kapostinTitle;
+            return hebrewText;
         }
         if (lang === "english") {
-            return englishText.kapostinTitle;
+            return englishText;
         } else {
-            return russianText.kapostinTitle;
+            return russianText;
         }
     }
+    function createMarkup(str) {
+        return { __html: str };
+    }
+
     return (
         <>
             <img src={isLeftToRight() ? defualtBackEn : defualtBackHeb} alt='background pic' className='fullBackground' />
             <div className='front-title-container'>
-                <h1>{titleToUse()}</h1>
+                <h1>{whichFileToUse().kapostinTitle}</h1>
             </div>
+            {whichFileToUse().titleBox.map((item) => {
+                return (
+                    <div key={item.name} id={item.name} className={'general-kapostin-container'} style={item.css}>
+                        <div dangerouslySetInnerHTML={createMarkup(item.text)} className='kapostin-font-weight' />
+                        <div dangerouslySetInnerHTML={createMarkup(item.more)} className='kapostin-font-weight' />
+                    </div>
+                );
+            })}
+            {whichFileToUse().miniTitles.map((item) => {
+                return (
+                    <div key={item.name} id={item.name} className={'mini-kapostin-container'} style={item.css}>
+                        <div dangerouslySetInnerHTML={createMarkup(item.text)} className='kapostin-font-weight' />
+                    </div>
+                );
+            })}
+
 
         </>
     );

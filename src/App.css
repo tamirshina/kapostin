@@ -17,9 +17,10 @@ html {
 }
 .front-title-container{
   position: fixed;
-  top:10%;
+  top:7%;
   width: 100%;
   text-align: center;
+  font-family: titleFont;
 }
 .languagesDiv {
   position: fixed;
@@ -37,4 +38,20 @@ html {
   bottom: 15px;
   right: 200px;
   z-index: 10;
+}
+.general-kapostin-container{
+  position: fixed;
+  top:30%;
+  font-size: small;
+  font-family: papyrus;
+  white-space: pre;
+}
+.kapostin-font-weight{
+  font-weight: 100;
+}
+.mini-kapostin-container{
+  position: fixed;
+  font-size: small;
+  font-family: papyrus;
+  white-space: pre;
 }
