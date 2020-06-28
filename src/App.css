@@ -45,6 +45,9 @@ html {
   font-size: small;
   font-family: papyrus;
   white-space: pre;
+  width: 204px;
+  height: 95px;
+  text-align: center;
 }
 .kapostin-font-weight{
   font-weight: 100;
@@ -54,4 +57,36 @@ html {
   font-size: small;
   font-family: papyrus;
   white-space: pre;
+}
+.kapostin-box-first-text{
+  font-size: 17px;
+  margin-top: 11px;
+}
+.particular-main-container{
+  position: fixed;
+  top: 11%;
+  width: 1035px;
+  height: 836px;
+  font-family: papyrus;
+  white-space: pre-line;
+  overflow: scroll;
+}
+.particular-position-heb{
+  right: 6%;
+}
+.particular-position-en{
+  left: 6%;
+}
+.particular-text-heb{
+  direction: rtl;
+}
+.backBtn{
+  position: fixed;
+  bottom: 11px;
+  right: 270px;
+  z-index: 10;
+}
+.particular-title{
+  font-family: titleFont;
+  font-size: 20px;
 }

@@ -1,9 +1,6 @@
 import React, { useContext, useEffect } from "react";
 import defualtBackEn from "../assets/kapostinPage/defualt-back-en.png";
 import defualtBackHeb from "../assets/kapostinPage/defualt-back-heb.png";
-import frontTitleEn from "../assets/03-title-en-front.png";
-import frontTitleHeb from "../assets/01-title-heb-front.png";
-import frontTitleRu from "../assets/03-title-en-front.png";
 import { timer, removeTimer } from '../fragments/TimerHundler';
 import hebrewText from '../textHandler/HebrewText';
 import englishText from '../textHandler/EnglishText';
@@ -11,7 +8,7 @@ import russianText from '../textHandler/RussianText';
 import LangContext from "../LangContext";
 import "../App.css";
 
-function KapostinPage({ homeBtnLogic }) {
+function KapostinPage({ homeBtnLogic, moveToParticularInfo }) {
 
     const { lang } = useContext(LangContext);
 
@@ -54,8 +51,8 @@ function KapostinPage({ homeBtnLogic }) {
             </div>
             {whichFileToUse().titleBox.map((item) => {
                 return (
-                    <div key={item.name} id={item.name} className={'general-kapostin-container'} style={item.css}>
-                        <div dangerouslySetInnerHTML={createMarkup(item.text)} className='kapostin-font-weight' />
+                    <div key={item.name} id={item.name} onClick={moveToParticularInfo} className={'general-kapostin-container'} style={item.css}>
+                        <div dangerouslySetInnerHTML={createMarkup(item.text)} className='kapostin-font-weight kapostin-box-first-text' />
                         <div dangerouslySetInnerHTML={createMarkup(item.more)} className='kapostin-font-weight' />
                     </div>
                 );
