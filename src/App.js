@@ -37,9 +37,9 @@ function App() {
   }
   return (
     <>
-      {isFrontPage && <FrontPage onClickFunc={switchPageFrontToOne} />}
-      {isKapostinPage && <KapostinPage moveToParticularInfo={moveToParticularInfo} />}
-      {isParticularInfoPage && <ParticularInfoPage typeOfParticularInfo={typeOfParticularInfo} />}
+      {isFrontPage && <FrontPage onClickFunc={switchPageFrontToOne} homeBtnLogic={homeBtn} />}
+      {isKapostinPage && <KapostinPage homeBtnLogic={homeBtn} moveToParticularInfo={moveToParticularInfo} />}
+      {isParticularInfoPage && <ParticularInfoPage homeBtnLogic={homeBtn} typeOfParticularInfo={typeOfParticularInfo} />}
       <LanguageBiv />
       {!isFrontPage && <HomeBtn homeBtnLogic={homeBtn} />}
       {isParticularInfoPage && <BackBtn backToKapostinPage={backToKapostinPage} />}

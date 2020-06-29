@@ -66,7 +66,7 @@ html {
   position: fixed;
   top: 11%;
   width: 1035px;
-  height: 836px;
+  height: 790px;
   font-family: papyrus;
   white-space: pre-line;
   overflow: scroll;
@@ -88,5 +88,21 @@ html {
 }
 .particular-title{
   font-family: titleFont;
-  font-size: 20px;
+  font-size: 24px;
+}
+.mini-title-particular{
+  font-size: larger;
+}
+.scroll-button-container {
+  position: fixed;
+  bottom: 10%;
+  left: 55%;
+}
+.scroll-container-heb{
+  position: fixed;
+  bottom: 10%;
+  right: 52%;
+}
+.left-scroll {
+  margin-right: 20px;
 }

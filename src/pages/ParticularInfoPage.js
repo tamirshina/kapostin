@@ -66,7 +66,7 @@ function ParticularInfoPage({ backBtnLogic, homeBtnLogic, typeOfParticularInfo }
   return (
     <>
       <img src={backgroundToRender()} alt='backgroundImage' className='fullBackground' />
-      <TextInserter typeOfParticularInfo={typeOfParticularInfo} />
+      <TextInserter homeBtnLogic={homeBtnLogic} typeOfParticularInfo={typeOfParticularInfo} />
     </>
   );
 
