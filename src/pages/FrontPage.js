@@ -2,7 +2,7 @@ import React, { useContext, useEffect } from "react";
 import frontBackground from "../assets/02-background-pic.png";
 import frontTitleEn from "../assets/03-title-en-front.png";
 import frontTitleHeb from "../assets/01-title-heb-front.png";
-import frontTitleRu from "../assets/03-title-en-front.png";
+import frontTitleRu from "../assets/front-headline-rus.png";
 import { timer, removeTimer } from '../fragments/TimerHundler';
 import LangContext from "../LangContext";
 import "../App.css";

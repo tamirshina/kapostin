@@ -5,36 +5,36 @@ const englishText = {
     titleBox: [
         {
             name: 'kapostin',
-            text: `אודות קפוסטין`,
-            more: `מידע נוסף`,
+            text: `About Kapustin`,
+            more: `More Info`,
             css: {
-                right: '305px'
+                left: '306px'
             }
         },
         {
             name: 'cairo',
             text: `The Cairo Genizah`,
-            more: `מידע נוסף`,
+            more: `More Info`,
             css: {
-                right: '644px'
+                left: '644px'
             }
         },
         {
             name: 'land',
-            text: `land properties purchased`,
-            more: `מידע נוסף`,
+            text: `land purchases`,
+            more: `More Info`,
             css: {
-                left: '346px'
+                right: '345px'
             }
         },
         {
             name: 'science',
             text:
                 `Archaeology
-             and Astronomy`,
-            more: `מידע נוסף`,
+ and Astronomy`,
+            more: `More Info`,
             css: {
-                left: '705px'
+                left: '1012px'
             }
         }
     ],
@@ -53,19 +53,19 @@ const englishText = {
             name: 'night',
             text: `"It is just in the late evening hours that he is left alone"`,
             css: {
-                bottom: '8%',
-                right: '15%',
+                bottom: '10%',
+                left: '6%'
             }
         },
         {
             name: 'books',
             text: `
               "but not really alone;
-               his friends and best interlocutors
-                were his beloved books"`,
+        his friends and best interlocutors
+              were his beloved books"`,
             css: {
-                bottom: '30%',
-                right: '31%'
+                left: '23%',
+                bottom: '34%'
             }
         },
         {
@@ -75,63 +75,77 @@ const englishText = {
                  he would linger on an old manuscript,
                   perform scientific archaeological tasks"`,
             css: {
-                left: '23%',
-                bottom: '34%'
+                bottom: '30%',
+                right: '31%'
+
             }
         },
         {
             name: 'glass',
             text: `
-                "and then, equipped with a magnifying glass and numismatic publications (study and collection of historic coins and currencies), he observed and inspected Greek and Roman coins"`,
+                                    "and then, equipped with a magnifying glass 
+and numismatic publications (study and collection of historic coins and currencies),
+                            he observed and inspected Greek and Roman coins"`,
             css: {
-                bottom: '10%',
-                left: '6%'
+                bottom: '8%',
+                right: '8%'
             }
         },
         {
             name: 'stars',
-            text: `"Afterwards, he would retire to the observatory he built in order to dedicate time in the study of the wonderful firmament of the Heavens with the great variety of its endless lights"`,
+            text: `
+            "Afterwards, he would retire to the observatory he built in order 
+              to dedicate time in the study of the wonderful firmament of the 
+                    Heavens with the great variety of its endless lights"`,
             css: {
-                top: '30%',
-                left: '72%',
-                visibility: 'hidden'
+                top: '17%',
+                left: '105%'
+
             }
         },
         {
             name: 'write',
-            text: `"Finally, he would sit and write down his thoughts and feelings he experienced throughout his workday, and thus provided the historian of the future with valuable material concerning his character."`,
+            text: `
+            "Finally, he would sit and write down his thoughts and feelings
+                            he experienced throughout his workday,
+             and thus provided the historian of the future with valuable 
+                             material concerning his character."`,
             css: {
-                top: '30%',
-                left: '72%',
-                visibility: 'hidden'
+                bottom: '27%',
+                left: '134%'
             }
         },
         {
             name: 'morning',
-            text: `"After such an active day, frequently during the early morning hours, he would be seen already leaving the Russian buildings, accompanied by his trusted dragoman (translator and guide), Yakov Aleppo"`,
+            text: `
+              "After such an active day, frequently during the early morning hours,
+             he would be seen already leaving the Russian buildings, accompanied by
+                     his trusted dragoman (translator and guide), Yakov Aleppo"`,
             css: {
-                top: '30%',
-                left: '72%',
-                visibility: 'hidden'
+                top: '42%',
+                left: '150%'
             }
         },
         {
             name: 'travel',
-            text: `"as the monks would say: “for a stroll in the diocese”, which meant oversee some buildings, land plots or shelters in Hebron, Jericho and other places."`,
+            text: `
+            "as the monks would say: “for a stroll in the diocese”,
+                            which meant oversee some buildings, 
+             land plots or shelters in Hebron, Jericho and other places."`,
             css: {
-                top: '30%',
-                left: '72%',
-                visibility: 'hidden'
+                top: '13%',
+                left: '170%'
             }
         },
         {
             name: 'head',
-            text: `"Kapustin was modest during his position as Head of the Order in Jerusalem; his meals were usually composed of one single dish – the Arabic “ful” – big dark beans, and he would usually wear informal and modest clothes.
-          Despite his modest life, Kapustin demonstrated frankness and straightforwardness with towards the Patriarchy, and his authority still remained unmatched."`,
+            text: `
+        "Kapustin was modest during his position as Head of the Order in Jerusalem; his meals were usually composed of one single dish – the Arabic “ful” – big dark beans, and he would usually wear informal and modest clothes.
+        Despite his modest life, Kapustin demonstrated frankness and straightforwardness with towards the Patriarchy, and his authority still remained unmatched."`,
             css: {
-                top: '30%',
-                left: '72%',
-                visibility: 'hidden'
+                bottom: '5%',
+                left: '110%',
+                fontSize: 'medium'
             }
         }
     ],

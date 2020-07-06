@@ -1,6 +1,6 @@
-import React, { useContext, useEffect } from "react";
-import defualtBackEn from "../assets/kapostinPage/defualt-back-en.png";
-import defualtBackHeb from "../assets/kapostinPage/defualt-back-heb.png";
+import React, { useContext, useEffect, useRef } from "react";
+import defualtBackEn from "../assets/kapostinPage/full-back-ENG.png";
+import defualtBackHeb from "../assets/kapostinPage/full-back-HEB.png";
 import { timer, removeTimer } from '../fragments/TimerHundler';
 import hebrewText from '../textHandler/HebrewText';
 import englishText from '../textHandler/EnglishText';
@@ -45,27 +45,29 @@ function KapostinPage({ homeBtnLogic, moveToParticularInfo }) {
 
     return (
         <>
-            <img src={isLeftToRight() ? defualtBackEn : defualtBackHeb} alt='background pic' className='fullBackground' />
-            <div className='front-title-container'>
-                <h1>{whichFileToUse().kapostinTitle}</h1>
+            <div className={isLeftToRight() ? '' : 'hebrew-modification'} >
+                <img src={isLeftToRight() ? defualtBackEn : defualtBackHeb} alt='background pic' className={'full-Background-no-width'} />
+                <div>
+                    <div className='front-title-container'>
+                        <h1>{whichFileToUse().kapostinTitle}</h1>
+                    </div>
+                    {whichFileToUse().titleBox.map((item) => {
+                        return (
+                            <div key={item.name} id={item.name} onClick={moveToParticularInfo} className={'general-kapostin-container'} style={item.css}>
+                                <div dangerouslySetInnerHTML={createMarkup(item.text)} className='kapostin-font-weight kapostin-box-first-text' />
+                                <div dangerouslySetInnerHTML={createMarkup(item.more)} className='kapostin-font-weight' />
+                            </div>
+                        );
+                    })}
+                    {whichFileToUse().miniTitles.map((item) => {
+                        return (
+                            <div key={item.name} id={item.name} className={'mini-kapostin-container'} style={item.css}>
+                                <div dangerouslySetInnerHTML={createMarkup(item.text)} className='kapostin-font-weight' />
+                            </div>
+                        );
+                    })}
+                </div>
             </div>
-            {whichFileToUse().titleBox.map((item) => {
-                return (
-                    <div key={item.name} id={item.name} onClick={moveToParticularInfo} className={'general-kapostin-container'} style={item.css}>
-                        <div dangerouslySetInnerHTML={createMarkup(item.text)} className='kapostin-font-weight kapostin-box-first-text' />
-                        <div dangerouslySetInnerHTML={createMarkup(item.more)} className='kapostin-font-weight' />
-                    </div>
-                );
-            })}
-            {whichFileToUse().miniTitles.map((item) => {
-                return (
-                    <div key={item.name} id={item.name} className={'mini-kapostin-container'} style={item.css}>
-                        <div dangerouslySetInnerHTML={createMarkup(item.text)} className='kapostin-font-weight' />
-                    </div>
-                );
-            })}
-
-
         </>
     );
 }
