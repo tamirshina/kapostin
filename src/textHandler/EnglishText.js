@@ -155,7 +155,7 @@ and numismatic publications (study and collection of historic coins and currenci
             info: `
             Kapustin was a member of the Imperial Orthodox Palestine Society, honorary member of the Imperial Architecture Society, member of the German Society for the Exploration of Palestine and also member of the architecture & antiquities societies of Odessa and Athens.
         
-        <h1 className='title-font'>Background</h1>
+        <b>Background</b>
         Kapustin was born on the August 12th in 1817 in the village of Baturino in the province of Perm in the Ural mountain range, Russia to a priestly family. His father served as the priest of the same village. He studied at the Kiev Theological Academy and by the end of his studies he was already a professor at the same academy where he taught German and Greek. In 1850 he is sent on his first assignment to the church of Nicodemus the Savior in Athens, Greece that was purchased by the Russian government of Tsar Nikolai II.
 This was the position at which he began to get involved in archaeology in the first place. His archaeological endeavors will accompany him during his quests of the Holy Land in the Middle East and will gradually constitute an important part of his identity. As a participant in archaeological excavations in Greece, he unearthed remnants of an earlier church and a Roman bath that greatly ignited his interest. In 1860 Kapustin was appointed priest of the Russian embassy church in Constantinople where he got acquainted with very influential personalities that will prove very valuable in the upcoming parts of his quests.
 In 1865 Kapustin becomes the head of the Russian Ecclesiastical Mission in Jerusalem and also the chief of the third religious delegation in Jerusalem. This position will only prove significant for Kapustin himself, but also for Jerusalem, the Russian Church and Russia as a whole. His intention was to reinforce the Russian orthodox presence in the Holy Land against the rest of the orthodox currents but first and foremost to provide accommodation and shelter for Russian pilgrims to the Holy Land.
@@ -229,7 +229,7 @@ In 2012 the Russian Patriarch Cyril paid a visit to Kapustin’s tomb in the chu
           alt="humanitarian buildings"
           class="humanitarianBuildings"
       /> 
-      Source: Yoel Amir collection, “Israel Revealed to the Naked Eye” Yad Ben-Tzvi – from source 3, the tower is located on the hillside of the mountain on the right side of the picture.
+      Source: Yoel Amir collection, “Israel Revealed to the Naked Eye” Yad Ben-Tzvi. The tower is located on the hillside of the mountain on the right side of the picture.
   
         `,
         },

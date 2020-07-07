@@ -23,6 +23,32 @@ html {
   direction: rtl;
   position: relative;
   overflow: scroll;
+  scroll-behavior: smooth;
+}
+.no-modification{
+  position: relative;
+  overflow: scroll;
+  scroll-behavior: smooth;
+}
+.arrow-position{
+  position: absolute;
+  top:50%;
+  left:92%;
+}
+.heb-arrow-pos{
+  position: absolute;
+  top:50%;
+  left:2%;
+}
+.back-scroll-arrow-position{
+  position: absolute;
+  top:50%;
+  left:102%;
+}
+.heb-back-arrow-pos{
+  position: absolute;
+  top:50%;
+  left: -6%;
 }
 .front-title-container{
   position: absolute;

@@ -69,7 +69,7 @@ function TextInserter({ homeBtnLogic, typeOfParticularInfo }) {
           ></p>
         </div>
       </div>
-      <ScrollBtns homeBtnLogic={homeBtnLogic} scrollDown={scrollAndUpdateDown} scrollUp={scrollAndUpdateUp} />
+      {typeOfParticularInfo !== 'cairo' && <ScrollBtns homeBtnLogic={homeBtnLogic} scrollDown={scrollAndUpdateDown} scrollUp={scrollAndUpdateUp} />}
     </>
   );
 }
