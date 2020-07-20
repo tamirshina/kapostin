@@ -14,10 +14,12 @@ html {
   height: -webkit-fill-available;
   object-fit: fill;
   width: 100%;
+  margin-bottom: -4px;
 }
 .full-Background-no-width {
   height: -webkit-fill-available;
   object-fit: fill;
+  margin-bottom: -3px;
 }
 .hebrew-modification{
   direction: rtl;
@@ -89,7 +91,7 @@ html {
 }
 .mini-kapostin-container{
   position: absolute;
-  font-size: small;
+  font-size: large;
   font-family: papyrus;
   white-space: pre;
 }
