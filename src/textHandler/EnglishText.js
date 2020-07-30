@@ -21,7 +21,7 @@ const englishText = {
         },
         {
             name: 'land',
-            text: `land purchases`,
+            text: `Land Purchases`,
             more: `More Info`,
             css: {
                 right: '345px'
@@ -153,19 +153,23 @@ and numismatic publications (study and collection of historic coins and currenci
         kapostin: {
             title: "<h1 className='title-font'>Archimandrite Antonin Kapustin</h1>",
             info: `
-            Kapustin was a member of the Imperial Orthodox Palestine Society, honorary member of the Imperial Architecture Society, member of the German Society for the Exploration of Palestine and also member of the architecture & antiquities societies of Odessa and Athens.
+            Kapustin was a member of the Imperial Orthodox Palestine Society, honorary member of the Imperial Architecture Society of Russia, member of the German Society for the Exploration of Palestine and also member of the architecture & antiquities societies of Odessa and Athens.
         
         <b>Background</b>
-        Kapustin was born on the August 12th in 1817 in the village of Baturino in the province of Perm in the Ural mountain range, Russia to a priestly family. His father served as the priest of the same village. He studied at the Kiev Theological Academy and by the end of his studies he was already a professor at the same academy where he taught German and Greek. In 1850 he is sent on his first assignment to the church of Nicodemus the Savior in Athens, Greece that was purchased by the Russian government of Tsar Nikolai II.
-This was the position at which he began to get involved in archaeology in the first place. His archaeological endeavors will accompany him during his quests of the Holy Land in the Middle East and will gradually constitute an important part of his identity. As a participant in archaeological excavations in Greece, he unearthed remnants of an earlier church and a Roman bath that greatly ignited his interest. In 1860 Kapustin was appointed priest of the Russian embassy church in Constantinople where he got acquainted with very influential personalities that will prove very valuable in the upcoming parts of his quests.
-In 1865 Kapustin becomes the head of the Russian Ecclesiastical Mission in Jerusalem and also the chief of the third religious delegation in Jerusalem. This position will only prove significant for Kapustin himself, but also for Jerusalem, the Russian Church and Russia as a whole. His intention was to reinforce the Russian orthodox presence in the Holy Land against the rest of the orthodox currents but first and foremost to provide accommodation and shelter for Russian pilgrims to the Holy Land.
+
+        Kapustin was born on August 12th in 1817 in the village of Baturino in the province of Perm in the Ural mountain range, Russia to a priestly family. His father served as the priest of the same village. He studied at the Kiev Theological Academy and by the end of his studies he was already a professor at the same academy where he taught German and Greek. In 1850 he is sent on his first assignment to the church of Nicodemus the Savior in Athens that was purchased by the Russian government of Tsar Alexander II.
+This was the position at which he began to get involved in archaeology in the first place. His archaeological endeavors will accompany him during his quests of the Holy Land and the Middle East and will gradually constitute an important part of his identity. As a participant in archaeological excavations in Greece, he unearthed remnants of an earlier church and a Roman bath that greatly ignited his interest. In 1860 Kapustin was appointed priest of the Russian embassy church in Constantinople where he got acquainted with very influential personalities that will prove very valuable in the upcoming parts of his quests.
+In 1865 Kapustin becomes the head of the Russian Ecclesiastical Mission in Jerusalem and also the chief of the third religious delegation in Jerusalem. This position will not only prove significant for Kapustin himself, but also for Jerusalem, the Russian Church and Russia as a whole. His intention was to reinforce the Russian orthodox presence in the Holy Land against the rest of the Christian currents but first and foremost to provide accommodation and shelter for Russian pilgrims to the Holy Land.
 “At his isolated post he did not sit cross-handed; he dovoted all of his day and most of the night working tirelessly and intensively. His chamber doors were not closed since the early morning hours until late at night; during the morning hours he was accepting the local people – granted solutions to their disputes, consulted them wisely and offered considerable help with basic needs and their financing.
 The day would go on with admittance of the teachers from the schools that he and the other mission members founded and Russian pilgrims freely and confidently flowing to his chambers: respectful figures, merchants and peasants, rich and poor would approach him to find solutions to troublesome and perplexed issues that occupied them. Fr. Antonin would speak for long hours and with great enthusiasm.
 Kapustin managed to attract large numbers of pilgrims and generally people surrounding him to be part of his ventures to which he was dedicated wholeheartedly”. (Prof. Alexey Afanasevich Dmitrievsky, the famous historian-liturgist, professor of the Kiev Theological Academy – 1856-1929)
+
 Contra the intensification of Western presence in the Holy Land, Russia had to respond aggressively and reinforce its presence in Palestine. Archim. Kapustin does not waste any time and begins purchasing land with proximity to holy sites that are ample in the ancient land of Israel. In the same period foreign nationals were not allowed to buy land properties in Palestine, therefore Kapustin gets associated with a dragoman (guide, translator and mediator especially in Arab-speaking territories), an Ottoman citizen named Yakov Yegorovich Aleppo; he acts as a useful agent and practically he is the one performing the purchases for the Russian Church and the IOPS.
-Kapustin’s life was long and full of suffering, especially in his twilight days, because of a disease that frequently caused him unbearable pain and reminded him that death is inevitable. Despite all that, he remained active with the same zeal; be it the field of science or the pilgrimage undertakings, the schools or the churches. It can definitely be said that Fr. Antonin was active and operational almost until his last hours and that he consistently fixed himself the highest of standards. “My health is like a rock (on my heart)”, he used to say. “I find it difficult to engage in science now. In the past I could work for seven-eight consecutive hours and now three-four, not more, my eyes are fatigued...”.
-In March 24th 1894, at the age of 77, the bells sounded and Jerusalem was mourning Archim. Kapustin’s passing. The following day a memorial service (panichida) was carried out in his honor in the Holy Trinity cathedral by Patriarch Gerasimus himself. The funeral procession that began from the church quickly turned into a royal procession, which was extraordinary even for the city of Jerusalem which had experienced big ceremonies in the past. By nightfall, the procession reached the Galilee, where Metropolite Epipahnios of Jordan joined it. Fr. Antonin Kapustin was buried in the Russian church of Ascension in the Mount of Olives.
-40 years after his death, in 1934, Fr. Kapustin’s diary was published.
+
+During his long years, Kapustin got involved in various fields such as numismatics, astronomy, archaeology and others. In his twilight days, despite his complicated health condition, he remained active with the same zeal; be it the field of science or the pilgrimage undertakings, the schools or the churches. It can definitely be said that Fr. Antonin was active and operational almost until his last hours and that he consistently fixed himself the highest of standards. “My health is like a rock (on my heart)”, he used to say. “I find it difficult to engage in science now. In the past I could work for seven-eight consecutive hours and now three-four, not more, my eyes are fatigued...”.
+In March 24th 1894, at the age of 77, the bells sounded and Jerusalem was mourning Archim. Kapustin’s passing. The following day a memorial service (panichida) was carried out in his honor in the Holy Trinity cathedral by the Patriarch of Jerusalem and in the presence of the Metropolite of Jorden. The funeral procession that began from the church quickly turned into a royal procession, which was extraordinary even for the city of Jerusalem which had experienced big ceremonies in the past. Fr. Antonin Kapustin was buried in the Russian church of Ascension in the Mount of Olives.
+
+Posthumously, Antonin Kapustin's diary full of events and reflections was published 40 years after his death, in 1934. The rich diary constitutes a source of utmost importance in order to comprehend his personality and the time period in general.
 
 In 2012 the Russian Patriarch Cyril paid a visit to Kapustin’s tomb in the church of Ascension, where he eulogized him more than a hundred years after his passing.
 
@@ -203,25 +207,25 @@ In 2012 the Russian Patriarch Cyril paid a visit to Kapustin’s tomb in the chu
         science: {
             title: `Archaeology and Astronomy`,
             info: `
-            Archaeology
-            The most important archaeological excavation Kapustin performed occurred at the A. Nevsky site in the old city of Jerusalem. Originally the A. Nevsky site was planned to host the first Russian consulate in the land of Israel in 1857. While laying the initial foundations for the erection of the consulate, archaeological findings emerged that bore paramount importance for both the christian world and the history of the city of Jerusalem. 
+            <b>Archaeology</b>
+
+            The most important archaeological excavation Kapustin performed occurred at the A. Nevsky site in the old city of Jerusalem. Originally the A. Nevsky site was planned to host the first Russian consulate in Palestine in 1857. While laying the initial foundations for the erection of the consulate, archaeological findings emerged that bore paramount importance for both the Christian world and the history of the city of Jerusalem. 
             
-            During the joint excavations of Kapustin and the well-known archaeologist Conrad Schick, a gate of the old city’s wall was discovered dating back to the Roman period. According to christian faith, the gate is the “Gate of Judgment” through which Jesus exited Jerusalem to the route that led to the hill of Golgotha (Calvary). The new fascinating finding caused the Russians to abandon the idea of the consulate and instead construct a church. The Gate of Judgment is still exhibited surrounded by glass and icons donated by the Tsar.
-            
-            In fact, the Gate of Judgment constitutes proof about the veracity of the Christian writings and as a result it instigated Russia’s efforts in archaeological excavations in the land of Israel.
-            An additional equally significant finding is an ancient sarcophagus whose story is still vague until today.
+            During the joint excavations of Kapustin and the well-known archaeologist Conrad Schick, a gate of the old city’s wall was discovered dating back to the Roman period. According to christian faith, the gate is the “Gate of Judgment” through which Jesus exited Jerusalem to the route that led to the hill of Golgotha (Calvary). The new fascinating finding caused the Russians to abandon the idea of the consulate and instead construct a church. The Gate of Judgment is still exhibited to this day together with collectibles donated by the tsar Alexander II.
+            The fact that such a significant finding was unearthed in land bought by the Russian Empire fascinated the pepole involved and drove the Russian Empire to augment its investments in the Holy Land.
+            An additional equally significant finding in the site is an ancient sarcophagus whose story is still vague until today.
             Other findings were exhibited and were kept secure for long years until WWI by which time the majority had been destroyed, disappeared or stolen.
             
             Kapustin carried out archaeological excavations on the Mount of Olives, in Jericho and in the Silwan neighborhood in East Jerusalem. Furthermore, he excavated in land plots purchased by the Russian Empire in Jaffa, Ein Karem and the Russian Compound among others. The most precious finding Kapustin unearthed was a bust of Herod the Great, which he donated to the national museum of Russia, the Hermitage, and left a copy for himself.
             
-            Kapustin gathered a big number of his findings in Grony monastery, a Russian womens’ monastery on the site of Moskoviya in Ein Karem, in a systematic manner in one of the halls. Artifacts from ancient Egypt and from the Second Temple period, gravestones from the Jewish cemetery in Jaffa, Hellenistic, Roman and Christian scripts and relics were all put in the same basket.
+            Kapustin gathered a big number of his findings in Grony monastery, a Russian womens’ monastery in Ein Karem, in a systematic manner in one of the halls. Artifacts from ancient Egypt and from the Second Temple period, gravestones from the Jewish cemetery in Jaffa, Hellenistic, Roman and Christian scripts and relics were all put in the same basket.
             
-            In 1929 researcher Elizabeth Lukianoff together with her husband spent four months in Gorny monastery, but even this timeframe was not enough to complete the task of arranging all of the artifacts. Kapustin bequeathed the museum to the Russian religious mission and the access to it is limited.
-            Apart from his archaeological activity in the land of Israel, Kapustin also stayed in Saint Catherine’s monastery for two months. There he documented and cataloged the Greek library found in the monastery. Kapustin translated the Codex Sinaiticus, which was relocated and exhibited in the Hermitage in Russia.            
+            In 1929 researcher Elizabeth Lukianoff together with her husband spent four months in Gorny monastery, but even this timeframe was not enough to complete the task of arranging all of the artifacts. Kapustin bequeathed the museum to the Russian Ecclesiastical Mission and the access to it is limited.
+            Apart from his archaeological activity in the land of Israel, Kapustin also stayed in Saint Catherine’s monastery for two months where he documented and cataloged the Greek library found in the monastery. Moreover, Kapustin translated the Codex Sinaiticus, a manuscript from the 4th century AD, which contained an early version of the Septugaint. Ultimately it was relocated and is currently exhibited in the Hermitage in Russia.            
+
+            <b>Astronomy</b>
           
-            Astronomy
-          
-            Triggered by his fondness of astronomy and the stars, Kapustin built several towers (such as Hebron, Ein Karem) in order to be able to fulfill his passion for the observation of celestial bodies. In his scarce free time Archimandrite Kapustin would stroll to the tower he built in Ein Karem, observe the stars and write his impressions in his numerous journals.
+            Triggered by his fondness of astronomy and the stars, Kapustin built several observatories in order to be able to fulfill his passion for the observation of celestial bodies. The sites known to us in which Kupostin built such observatories are Hebron and Ein Karem. In his scarce free time Archimandrite Kapustin would stroll to the tower he built in Ein Karem, observe the stars and write his impressions in his numerous journals.
 
   
           <img
@@ -229,6 +233,7 @@ In 2012 the Russian Patriarch Cyril paid a visit to Kapustin’s tomb in the chu
           alt="humanitarian buildings"
           class="humanitarianBuildings"
       /> 
+      The observatory in Ein Karem. Can you spot it in the picture?
       Source: Yoel Amir collection, “Israel Revealed to the Naked Eye” Yad Ben-Tzvi. The tower is located on the hillside of the mountain on the right side of the picture.
   
         `,

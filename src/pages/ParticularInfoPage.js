@@ -1,21 +1,18 @@
-import React, { useContext, useState, useEffect } from 'react';
+import React, { useContext, useEffect } from 'react';
 import { timer, removeTimer } from '../fragments/TimerHundler';
 import LangContext from "../LangContext";
-import kaposEnBack from '../assets/kapostinPage/kapostin-back-en.png';
-import kaposHebBack from '../assets/kapostinPage/kapostin-back-heb.png';
+import kaposEnBack from '../assets/kapostinPage/kapustin-back-en.png';
+import kaposHebBack from '../assets/kapostinPage/Kapustin-back-heb.png';
 import landEnBack from '../assets/kapostinPage/land-back-en.png';
 import landHebBack from '../assets/kapostinPage/land-back-heb.png';
 import cairoEnBack from '../assets/kapostinPage/paper-back-en.png';
 import cairoHebBack from '../assets/kapostinPage/paper-back-heb.png';
 import scienceHebBack from '../assets/kapostinPage/tower-back-heb.png';
 import scienceEnBack from '../assets/kapostinPage/tower-back-en.png';
-import hebrewText from '../textHandler/HebrewText';
-import englishText from '../textHandler/EnglishText';
-import russianText from '../textHandler/RussianText';
 import TextInserter from '../textHandler/TextInserter';
 import '../App.css';
 
-function ParticularInfoPage({ backBtnLogic, homeBtnLogic, typeOfParticularInfo }) {
+function ParticularInfoPage({ homeBtnLogic, typeOfParticularInfo }) {
 
   const lang = useContext(LangContext).lang;
 
@@ -35,17 +32,6 @@ function ParticularInfoPage({ backBtnLogic, homeBtnLogic, typeOfParticularInfo }
       };
 
     }, [homeBtnLogic]);
-
-  function whichFileToUse() {
-    if (lang === "hebrew") {
-      return hebrewText;
-    }
-    if (lang === "english") {
-      return englishText;
-    } else {
-      return russianText;
-    }
-  }
 
   function backgroundToRender() {
 
