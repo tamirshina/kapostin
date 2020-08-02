@@ -54,7 +54,7 @@ const englishText = {
             text: `"It is just in the late evening hours that he is left alone"`,
             css: {
                 bottom: '10%',
-                left: '6%'
+                left: '4%'
             }
         },
         {
@@ -64,7 +64,7 @@ const englishText = {
         his friends and best interlocutors
               were his beloved books"`,
             css: {
-                left: '23%',
+                left: '21.5%',
                 bottom: '34%'
             }
         },
@@ -76,7 +76,7 @@ const englishText = {
                   perform scientific archaeological tasks"`,
             css: {
                 bottom: '30%',
-                right: '31%'
+                right: '29.5%'
 
             }
         },
@@ -88,7 +88,7 @@ and numismatic publications (study and collection of historic coins and currenci
                             he observed and inspected Greek and Roman coins"`,
             css: {
                 bottom: '8%',
-                right: '8%'
+                right: '4%'
             }
         },
         {
@@ -98,8 +98,8 @@ and numismatic publications (study and collection of historic coins and currenci
               to dedicate time in the study of the wonderful firmament of the 
                     Heavens with the great variety of its endless lights"`,
             css: {
-                top: '17%',
-                left: '105%'
+                top: '14%',
+                left: '102%'
 
             }
         },
@@ -111,8 +111,8 @@ and numismatic publications (study and collection of historic coins and currenci
              and thus provided the historian of the future with valuable 
                              material concerning his character."`,
             css: {
-                bottom: '27%',
-                left: '134%'
+                bottom: '26%',
+                left: '130%'
             }
         },
         {
@@ -122,8 +122,8 @@ and numismatic publications (study and collection of historic coins and currenci
              he would be seen already leaving the Russian buildings, accompanied by
                      his trusted dragoman (translator and guide), Yakov Aleppo"`,
             css: {
-                top: '42%',
-                left: '150%'
+                top: '38%',
+                left: '146%'
             }
         },
         {
@@ -133,19 +133,20 @@ and numismatic publications (study and collection of historic coins and currenci
                             which meant oversee some buildings, 
              land plots or shelters in Hebron, Jericho and other places."`,
             css: {
-                top: '13%',
-                left: '170%'
+                top: '9%',
+                left: '165%'
             }
         },
         {
             name: 'head',
             text: `
-        "Kapustin was modest during his position as Head of the Order in Jerusalem; his meals were usually composed of one single dish – the Arabic “ful” – big dark beans, and he would usually wear informal and modest clothes.
+        "Kapustin was modest during his position as Head of the Order in Jerusalem; his meals were usually composed of one single dish – the Arabic “ful” – big dark beans
+        , and he would usually wear informal and modest clothes.
         Despite his modest life, Kapustin demonstrated frankness and straightforwardness with towards the Patriarchy, and his authority still remained unmatched."`,
             css: {
                 bottom: '5%',
                 left: '110%',
-                fontSize: 'medium'
+                fontSize: 'large'
             }
         }
     ],
