@@ -158,9 +158,9 @@ and numismatic publications (study and collection of historic coins and currenci
         
         <b>Background</b>
 
-        Kapustin was born on August 12th in 1817 in the village of Baturino in the province of Perm in the Ural mountain range, Russia to a priestly family. His father served as the priest of the same village. He studied at the Kiev Theological Academy and by the end of his studies he was already a professor at the same academy where he taught German and Greek. In 1850 he is sent on his first assignment to the church of Nicodemus the Savior in Athens that was purchased by the Russian government of Tsar Alexander II.
+        Kapustin was born on August 12th in 1817 in the village of Baturino in the province of Perm in the Ural mountain range in Russia to a priestly family. His father served as the priest of the same village. He studied at the Kiev Theological Academy and by the end of his studies he was already a professor at the same academy where he taught German and Greek. In 1850 he is sent on his first assignment to the church of Nicodemus the Savior in Athens that was purchased by the Russian government of Tsar Alexander II.
 This was the position at which he began to get involved in archaeology in the first place. His archaeological endeavors will accompany him during his quests of the Holy Land and the Middle East and will gradually constitute an important part of his identity. As a participant in archaeological excavations in Greece, he unearthed remnants of an earlier church and a Roman bath that greatly ignited his interest. In 1860 Kapustin was appointed priest of the Russian embassy church in Constantinople where he got acquainted with very influential personalities that will prove very valuable in the upcoming parts of his quests.
-In 1865 Kapustin becomes the head of the Russian Ecclesiastical Mission in Jerusalem and also the chief of the third religious delegation in Jerusalem. This position will not only prove significant for Kapustin himself, but also for Jerusalem, the Russian Church and Russia as a whole. His intention was to reinforce the Russian orthodox presence in the Holy Land against the rest of the Christian currents but first and foremost to provide accommodation and shelter for Russian pilgrims to the Holy Land.
+In 1865 Kapustin becomes the head of the Russian Ecclesiastical Mission in Jerusalem and also the chief of the third religious delegation in Jerusalem. This position will not only prove significant for Kapustin himself, but also for Jerusalem, the Russian Church and Russia as a whole. His intention was to reinforce the Russian Orthodox presence in the Holy Land against the rest of the Christian denominations but first and foremost to provide accommodation and shelter for Russian pilgrims to the Holy Land.
 “At his isolated post he did not sit cross-handed; he dovoted all of his day and most of the night working tirelessly and intensively. His chamber doors were not closed since the early morning hours until late at night; during the morning hours he was accepting the local people – granted solutions to their disputes, consulted them wisely and offered considerable help with basic needs and their financing.
 The day would go on with admittance of the teachers from the schools that he and the other mission members founded and Russian pilgrims freely and confidently flowing to his chambers: respectful figures, merchants and peasants, rich and poor would approach him to find solutions to troublesome and perplexed issues that occupied them. Fr. Antonin would speak for long hours and with great enthusiasm.
 Kapustin managed to attract large numbers of pilgrims and generally people surrounding him to be part of his ventures to which he was dedicated wholeheartedly”. (Prof. Alexey Afanasevich Dmitrievsky, the famous historian-liturgist, professor of the Kiev Theological Academy – 1856-1929)
@@ -168,7 +168,7 @@ Kapustin managed to attract large numbers of pilgrims and generally people surro
 Contra the intensification of Western presence in the Holy Land, Russia had to respond aggressively and reinforce its presence in Palestine. Archim. Kapustin does not waste any time and begins purchasing land with proximity to holy sites that are ample in the ancient land of Israel. In the same period foreign nationals were not allowed to buy land properties in Palestine, therefore Kapustin gets associated with a dragoman (guide, translator and mediator especially in Arab-speaking territories), an Ottoman citizen named Yakov Yegorovich Aleppo; he acts as a useful agent and practically he is the one performing the purchases for the Russian Church and the IOPS.
 
 During his long years, Kapustin got involved in various fields such as numismatics, astronomy, archaeology and others. In his twilight days, despite his complicated health condition, he remained active with the same zeal; be it the field of science or the pilgrimage undertakings, the schools or the churches. It can definitely be said that Fr. Antonin was active and operational almost until his last hours and that he consistently fixed himself the highest of standards. “My health is like a rock (on my heart)”, he used to say. “I find it difficult to engage in science now. In the past I could work for seven-eight consecutive hours and now three-four, not more, my eyes are fatigued...”.
-In March 24th 1894, at the age of 77, the bells sounded and Jerusalem was mourning Archim. Kapustin’s passing. The following day a memorial service (panichida) was carried out in his honor in the Holy Trinity cathedral by the Patriarch of Jerusalem and in the presence of the Metropolite of Jorden. The funeral procession that began from the church quickly turned into a royal procession, which was extraordinary even for the city of Jerusalem which had experienced big ceremonies in the past. Fr. Antonin Kapustin was buried in the Russian church of Ascension in the Mount of Olives.
+In March 24th 1894, at the age of 77, the bells sounded and Jerusalem was mourning Archim. Kapustin’s passing. The following day a memorial service (panichida) was carried out in his honor in the Holy Trinity cathedral by the Patriarch of Jerusalem and in the presence of the Metropolite of Jordan. The funeral procession that began from the church quickly turned into a royal procession, which was extraordinary even for the city of Jerusalem which had experienced big ceremonies in the past. Fr. Antonin Kapustin was buried in the Russian church of Ascension in the Mount of Olives.
 
 Posthumously, Antonin Kapustin's diary full of events and reflections was published 40 years after his death, in 1934. The rich diary constitutes a source of utmost importance in order to comprehend his personality and the time period in general.
 
@@ -180,29 +180,39 @@ In 2012 the Russian Patriarch Cyril paid a visit to Kapustin’s tomb in the chu
         land: {
             title: `Main land properties purchased by Kapustin`,
             info: `
-            Archim. Antonin Kapustin constitutes an inseparable part of the foundation of IOPS – his connections to key personalities in Palestine and Russian nobility contributed to the realization of the vision. Furthermore, the Society’s representatives that arrived from Russia to the land of Israel for the first time would go out on excursions on horses escorted by Kapustin and through them they would learn to accommodate to and recognize the region and also grasp the sanctity of the place.
-
-            The Russian Orthodox Church cherishes him with the following words: “It is precisely him, the lonely righteous that his contemporaries did not know to appreciate, we owe our gratitude for the unique historical legacy; what we call today Russian Palestine is mainly the outcome of Russian activity in the Holy Land during a half century.
+            Archim. Antonin Kapustin constitutes an inseparable part of the foundation of IOPS – his connections to key personalities in Palestine and Russian nobility contributed to the  of "Russia in Palestine". Furthermore, the Society’s representatives that arrived from Russia to the land of Israel for the first time would go out on excursions on horses escorted by Kapustin and through them they would learn to accommodate to and recognize the region and also grasp the sanctity of the place.
             
-            In 1879 Kapustin describes in his memoirs the principal motivation to his conduct: “I have left all my life aspirations behind and devoted my entire existence to the reinforcement and the glorification of Russia’s name in the Holy Land, so that we are not guests there anymore but equally rightful owners.
+            In 1879 Kapustin describes in his memoirs the principal motivation to his conduct: “I have left all my life aspirations behind and devoted my entire existence to the reinforcement and the glorification of Russia’s name in the Holy Land, so that we are not guests there anymore but equally rightful owners".
             
-            Kapustin was involved in the purchase, erection and renovation of a multitude of sites all over the Holy Land: the Mount of Oives, Ein Karem, Bayt Jala, Hebron, Jaffa, Tiberias and Nazareth. These are the principal and most known land properties he purchased in Palestine: 
+            Kapustin was involved in the purchase, erection and renovation of a multitude of sites all over the Holy Land: the Mount of Olives, Ein-Karem, Bayt Jala, Hebron, Jaffa, Tiberias and Nazareth. These are the principal and most known land properties he purchased in Palestine: 
             
-            Oak of Mamre (Oak of Abraham)
+            <b>Oak of Mamre (Oak of Abraham)</b>
             He buys the territory on which the “Oak of Abraham” is located adjacent to Hebron, the place in which it is believed that Abraham hosted the three angels that announced him the news of Sarah, his barren wife, giving birth to his son. A church was erected on the site devoted to the Holy Trinity whose facade reminds the one of the famous church in Jerusalem.
             
-            Chapel of the Ascension
-            Kapustin acquires an extensive territory on the Mount of Olives on which is located the Chapel of the Ascension and the popular bell tower next to it. The remarkable bell arrives via the sea from Russia and Kapustin openly calls for volunteers to carry the bell to the church and eventually a hundred people escort the bell with prayers and songs.
+            <b>Church of Ascension</b>
+            Kapustin acquires an extensive territory on the Mount of Olives on which is located the church of the Ascension and the popular bell tower next to it. The remarkable bell arrives via the sea from Russia and Kapustin openly calls for volunteers to carry the bell to the church and eventually hundreds of people escort the bell with prayers and songs.
             
-            The Chapel of the Ascension gains astonishing respect and Binyamin Zeev Hertzl visits there alongside the German Kaiser Wilhelm II.
+            The church of the Ascension gains astonishing respect and Binyamin Zeev Hertzl, the father of the Zionist movement, visits there alongside the German Kaiser Wilhelm II in 1898.
             
             Hertzl writes in his diary: “We got up the Russian tower, I reached until the first balcony as dizziness overwhelmed me. The rest of the gentlemen made it to the top. A view beyond any comparison overlooking the Jordan valley with its mountainsides, the Dead Sea, the Moab mountains, the eternal city of Jerusalem. Spare time and a carefree mind are required in order to process all these impressions.”
             
-            Moreover, in 1869 Kapustin builds a shelter for pilgrims together with a neo-Byzantine style church in Jaffa, inaugurates a residence for pilgrims in Tiberias and bought a relatively big field of land by the village of Bayt Jala, where he constructed his personal residence. In 1886 this site was presented by Kapustin to the Grand Duke Sergei Alexandrovic.
+            <b>Church of Mary Magdalene</b>
+            In 1882 Kapustin purchases a land plot in the Mount of Olives, funded by the Russian goverment, on which the Church of Mary Magdalene was to be built a few years later.
+
+            <b>Bayt Jala</b>
+            In 1886 Kapustin buys lands adjacent to Bayt Jala on which one the biggest education complexes founded by the IOPS. In the year he bought an additional plot of land where he built his own residence. 
+
+            <b>Jaffa</b>
+            Kapustin left his mark with a hostel for pilgrims and an impressive church built in neo-byzantine style.
+
+            <b>Jericho</b>
+            in 1874 Kapustin bought a plot in Jericho were he had a pilgrims' hostel built for the sojourners passing through Jericho to Jordan. This edifice was the only one in European style in the region around which Arab Muslim populations live in huts. 
             
-            In 1873 Kapustin obtains an additional field adjacent to Bayt Jala, upon which a big educational center was built and in 1874 he purchased another piece of land in Jericho, where a shelter was built for pilgrims passing from Jericho to Jordan. This house was the only European building in the area and around it Muslim Arab neighbors that lived nearby.
-            
-            In 1885 the Orthodox Society for Palestine, aided by Kapustin, launched five schools for girls and boys in Nazareth, Beirut and Damascus.           
+            In 1885 the Orthodox Society for Palestine, aided by Kapustin, launched five schools for girls and boys in Nazareth, Beirut and Damascus.
+            Overall Kapustin legally purchased 13 land plots spreading over 425 thousand s.m. whose cost rose to a million rubles in gold. 
+            Kapustin bequathed all the real estate assets under his name to the Holy Synod and added a clause to his will saying that if the Holy Synod is dissassembled, then all his property will be transfered to the entire Russian Orthdox community. 
+
+            The Russian Orthodox Church cherishes him with the following words: “It is precisely him, the lonely righteous that his contemporaries did not know to appreciate, we owe our gratitude for the unique historical legacy; what we call today Russian Palestine is mainly the outcome of Russian activity in the Holy Land during a half century.
         `,
         },
         science: {
