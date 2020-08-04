@@ -2,11 +2,11 @@
 let myFunc;
 export function timer(homeBtnLogic) {
 
-  myFunc = window.setInterval(() => {
+  myFunc = window.setTimeout(() => {
     homeBtnLogic();
   }, 300000);
 }
 export function removeTimer() {
 
-  window.clearInterval(myFunc);
+  window.clearTimeout(myFunc);
 }
