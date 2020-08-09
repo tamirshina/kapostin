@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import FrontPage from './pages/FrontPage';
 import HomeBtn from './fragments/HomeBtn';
 import LanguageBiv from './fragments/LanguageButtons'
@@ -13,6 +13,16 @@ function App() {
   const [isKapostinPage, setIsKapostinPage] = useState(false);
   const [typeOfParticularInfo, setTypeOfParticularInfo] = useState();
   const [isParticularInfoPage, setIsParticularInfoPage] = useState(false);
+
+  useEffect(() => {
+    window.addEventListener('contextmenu', blockContextMenu);
+
+    // eslint-disable-next-line
+  }, []);
+
+  const blockContextMenu = (evt) => {
+    evt.preventDefault();
+  };
 
   const homeBtn = () => {
     setIstFrontPage(true);
